@@ -3,3 +3,4 @@ drugi
 trzeci
 czwarty
 z brancha
+rownolegla zmiana
