@@ -4,3 +4,4 @@ trzeci
 czwarty
 z brancha
 rownolegla zmiana
+cherryline
