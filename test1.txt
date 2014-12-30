@@ -4,3 +4,5 @@ trzeci
 czwarty
 z brancha
 rownolegla zmiana
+
+linia przed cherry
