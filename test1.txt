@@ -5,3 +5,8 @@ czwarty
 z brancha
 rownolegla zmiana
 cherryline
+
+
+linia przed cherry
+cherry line
+
