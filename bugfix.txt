@@ -4,3 +4,5 @@ i powinien byc konflikt
 aaaaaaaaaa
 bbbbbbbbbbbbbb
 ccccc
+dddd
+eee
