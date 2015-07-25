@@ -13,6 +13,5 @@ cherry line
 
 I znowu 2223master
 I znowu 2223577
-I trzy
 I cztery
 I pięć
