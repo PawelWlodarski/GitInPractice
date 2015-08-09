@@ -15,3 +15,4 @@ I znowu 2223master
 I znowu 2223577
 I cztery
 I pięć
+w masterze
