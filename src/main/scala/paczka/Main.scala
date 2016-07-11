@@ -6,6 +6,6 @@ object Main{
 		println("dziala!!!")
 	}
 
-	class JugMeeting(topic:String,numberOfParticipants:Int)
+  class JugMeeting(topic:String,numberOfParticipants:Int)
 
 }
