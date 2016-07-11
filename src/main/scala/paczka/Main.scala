@@ -6,4 +6,6 @@ object Main{
 		println("dziala!!!")
 	}
 
+	class JugMeeting(topic:String,participants:Int)
+
 }
